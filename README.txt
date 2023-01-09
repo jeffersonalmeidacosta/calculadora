@@ -1,0 +1,1 @@
+Esse é um projeto que fiz usando html, css e javascript para testar meus conhecimentos e aprimorar meus estudos iniciais.
